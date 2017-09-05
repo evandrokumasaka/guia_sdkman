@@ -1,4 +1,4 @@
-# guia_jenv
-Guia rápido de Jenv da itexto
+# guia_sdkman
+Guia rápido do SDKMan da itexto
 
-Autor: Henrique Lobo Weissmann
+Autor: Henrique Lobo Weissmann e Daniel Altamiro Oliveira Rodrigues
